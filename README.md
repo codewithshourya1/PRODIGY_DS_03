@@ -39,3 +39,7 @@ To build a classification model using a *Decision Tree* that can predict client 
 5.⁠ ⁠*Visualization*
    - Display the structure of the decision tree using ⁠ plot_tree() ⁠
 
+
+---
+
+This project helped strengthen my understanding of data preprocessing, EDA, model visualization machine learning pipeline .
